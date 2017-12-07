@@ -1,0 +1,18 @@
+{
+  "name": "twitter-node-api-interface",
+  "version": "1.0.0",
+  "description": "A twitter interface with epress",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-starter": "^0.0.2",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scot Pfleghaar",
+  "license": "ISC"
+}
